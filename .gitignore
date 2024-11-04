@@ -1,0 +1,37 @@
+# Ignore Python cache files and folders
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore backup and data folders (assuming they contain large or sensitive data)
+backup
+data/Embedding
+
+# Ignore environment or dependency files if any
+env/
+venv/
+*.env
+
+# Ignore compiled code and binary files (if any are generated)
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Ignore system files (MacOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# Ignore other common project artifacts
+*.log
+*.tmp
+*.bak
+
+# Git ignore for hidden backup files
+*~
