@@ -1,6 +1,6 @@
-# AdaMVL: Integrating Multi-View Learning with Transcriptomic Profiles, Knowledge Graphs, and Large Language Models for Enhanced Drug Repositioning
+# AMVL: A Multi-View Learning Method for Enhanced Drug Repurposing Using CTPs, Knowledge Graph, and LLM
 
-This repository contains the code, datasets, and resources for the project **AdaMVL**, which integrates multi-view learning approaches with transcriptomic profiles, knowledge graphs, and large language models to improve drug repositioning predictions.
+This repository contains the code, datasets, and resources for the project **AMVL**, which integrates multi-view learning approaches with transcriptomic profiles, knowledge graphs, and large language models to improve drug repositioning predictions.
 
 ![overflow](img/overflow.png)
 
